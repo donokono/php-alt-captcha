@@ -22,4 +22,6 @@ A few thoughts while building this. I realize that users that are visually impai
  
 I really tried to make all the items in the photos as simple as possible in hopes that non-native English speakers will still be able to use the scheme with a super basic understanding of English. If the rest of your site is English only, you should be OK.
 
+Also, your PHP installation must have GD with PNG support built in or this will not work.
+
 
