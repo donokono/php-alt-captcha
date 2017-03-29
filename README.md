@@ -8,6 +8,8 @@ The object created by calling the `makeImage()` method contains properties you c
   
 This is the latest version of the class which outputs a base64 representation of the final confirmation image.
 
+![ScreenShot](screenshot.png)
+
 ## Usage
 
 Take a look at test.php for an example of how to use the class. It should be pretty straightforward.
